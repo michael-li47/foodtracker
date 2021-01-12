@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* frozen column magic */
+
+.frozen {
+  order: -1;
+  position: relative;
+  left: 0;
+  background: pink;
+  transition: left 0.2s;
+  margin-right: 6px;
+}
+.rt-th.frozen {
+  border-bottom: 1px solid #f8f8f8;
+}
+
+.ReactTable {
+  height: 500px;
+}
+
