@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/foodtracker/static/css/main.4bd1825a.chunk.css",
+    "main.js": "/foodtracker/static/js/main.301efcd9.chunk.js",
+    "main.js.map": "/foodtracker/static/js/main.301efcd9.chunk.js.map",
+    "runtime-main.js": "/foodtracker/static/js/runtime-main.f558ce4a.js",
+    "runtime-main.js.map": "/foodtracker/static/js/runtime-main.f558ce4a.js.map",
+    "static/css/2.e3662e45.chunk.css": "/foodtracker/static/css/2.e3662e45.chunk.css",
+    "static/js/2.0ddf9dfc.chunk.js": "/foodtracker/static/js/2.0ddf9dfc.chunk.js",
+    "static/js/2.0ddf9dfc.chunk.js.map": "/foodtracker/static/js/2.0ddf9dfc.chunk.js.map",
+    "static/js/3.975f6423.chunk.js": "/foodtracker/static/js/3.975f6423.chunk.js",
+    "static/js/3.975f6423.chunk.js.map": "/foodtracker/static/js/3.975f6423.chunk.js.map",
+    "index.html": "/foodtracker/index.html",
+    "static/css/2.e3662e45.chunk.css.map": "/foodtracker/static/css/2.e3662e45.chunk.css.map",
+    "static/css/main.4bd1825a.chunk.css.map": "/foodtracker/static/css/main.4bd1825a.chunk.css.map",
+    "static/js/2.0ddf9dfc.chunk.js.LICENSE.txt": "/foodtracker/static/js/2.0ddf9dfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f558ce4a.js",
+    "static/css/2.e3662e45.chunk.css",
+    "static/js/2.0ddf9dfc.chunk.js",
+    "static/css/main.4bd1825a.chunk.css",
+    "static/js/main.301efcd9.chunk.js"
+  ]
+}
